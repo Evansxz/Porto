@@ -125,7 +125,6 @@ nav {
     margin: 0 auto 3rem;
     display: block;
     border: 6px solid #fbbf24;
-    box-shadow: rgba(0, 0, 0, 0.15);
     animation: fadeInScale 1s ease 0.4s both;
     transition: transform 0.3s ease;
 }
